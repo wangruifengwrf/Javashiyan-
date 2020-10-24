@@ -68,6 +68,6 @@ public class Test {
 ```
 
 # 六、结果截图
-![运行结果]()
+![结果](https://github.com/wangruifengwrf/Javashiyan-/blob/main/%E7%BB%93%E6%9E%9C.png)
 # 七、
 加深自己对父类与子类的理解，对于继承的使用。同时学会使用tostring方法。在返回值的时候要以字符串类型，可以加“”来实现转化为字符串输出。在编写extend继承关系的时候，也对super有一些理解，可以直接引用父类的属性方法，进一步的简化程序的编写。
